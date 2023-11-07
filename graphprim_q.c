@@ -1,18 +1,3 @@
-Skip to content
-Commands
-Search
-
-Start Pro trial
-
-Help
-
-
-
-
-
-main.c
-
-...
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -86,16 +71,3 @@ int main(void)
   prim(&g, 0);
   return 0;
 }
-*/
-
-AI
-
-Ln 74, Col 1
-
-Spaces: 2
-
-History
-
-Run
-930ms on 10:36:45, 11/07
-No definition found
